@@ -13,7 +13,7 @@
     "chai-http": "^4.3.0",
     "chai-json-schema": "^1.5.1",
     "convert-csv-to-json": "0.0.15",
-    "mathjs": "^6.2.3",
+    "mathjs": "^7.5.1",
     "mocha": "^6.2.2",
     "mochawesome": "^4.1.0",
     "moment": "^2.24.0",
