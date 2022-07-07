@@ -16,7 +16,7 @@
     "mathjs": "^6.2.3",
     "mocha": "^6.2.2",
     "mochawesome": "^4.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "random-number": "0.0.9",
     "superagent": "^5.1.0"
   }
